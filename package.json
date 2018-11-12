@@ -1,0 +1,23 @@
+{
+  "name": "t6-react-todo-list",
+  "version": "1.0.0",
+  "description": "<h1>Todo List React</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natashamorais/t6-react-todo-list.git"
+  },
+  "keywords": [
+    "to-do-list",
+    "react"
+  ],
+  "author": "Natasha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natashamorais/t6-react-todo-list/issues"
+  },
+  "homepage": "https://github.com/natashamorais/t6-react-todo-list#readme"
+}
